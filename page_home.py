@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main_home():
-	st.title(":beginner: ここに作品名")
+	st.title(":beginner: ボイスジェネレーター")
 	
 	st.markdown("""
 		<h4>1. はじめに</h4>
