@@ -7,7 +7,7 @@ from page_generate import main_generate
 
 # タブとページデフォルトの設定
 st.set_page_config(
-    page_title="なとサンチーム",
+    page_title="ボイスジェネレーター",
     page_icon="beginner",
     initial_sidebar_state="expanded"
 )
