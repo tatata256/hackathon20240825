@@ -31,7 +31,17 @@ pip install -r requirements.txt
 
 <p><font size="3">
 	VALL-E-X が動くようになったら，本ページのコードを "VALL-E-X" ディレクトリ内にクローンしてください．"images" ディレクトリが競合を起こすと思いますが上書きしてください．
-	<br>
+</font></p>
+
+```commandline
+	git clone https://github.com/tatata256/hackathon20240825.git
+```
+
+<p><font size="3">
+	<b>※注意!!!</b>：クローンをしたら，"audio_generation.py" のコメントアウトしている箇所（2~4, 7~14, 19行目）を<b>コメントアウト解除</b>してください．これをしないと音声合成が正常に機能しません．
+</font></p>
+
+<p><font size="3">
 	クローンが完了したら，以下のコマンドを実行してください．
 </font></p>
 
@@ -39,10 +49,6 @@ pip install -r requirements.txt
 pip install streamlit
 pip install streamlit-option-menu
 ```
-
-<p><font size="3">
-	<b>※注意!!!</b>：クローンをしたら，"audio_generation.py" のコメントアウトしている箇所（2~4, 7~14, 19行目）を<b>コメントアウト解除</b>してください．これをしないと音声合成が正常に機能しません．
-</font></p>
 
 <p><font size="3">
 	以上がすべて済みましたら，以下のコマンドを実行してください．
