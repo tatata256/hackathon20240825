@@ -34,7 +34,7 @@ pip install -r requirements.txt
 </font></p>
 
 ```commandline
-	git clone https://github.com/tatata256/hackathon20240825.git
+git clone https://github.com/tatata256/hackathon20240825.git
 ```
 
 <p><font size="3">
