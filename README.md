@@ -38,10 +38,6 @@ git clone https://github.com/tatata256/hackathon20240825.git
 ```
 
 <p><font size="3">
-	<b>※注意!!!</b>：クローンをしたら，"audio_generation.py" のコメントアウトしている箇所（2~4, 7~14, 19行目）を<b>コメントアウト解除</b>してください．これをしないと音声合成が正常に機能しません．
-</font></p>
-
-<p><font size="3">
 	クローンが完了したら，以下のコマンドを実行してください．
 </font></p>
 
